@@ -1,0 +1,12 @@
+GEM
+  remote: https://rubygems.org/
+  specs:
+    nokogiri (1.5.9)
+    taglib-ruby (0.6.0)
+
+PLATFORMS
+  ruby
+
+DEPENDENCIES
+  nokogiri
+  taglib-ruby
