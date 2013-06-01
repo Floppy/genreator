@@ -9,7 +9,7 @@ require 'yaml'
 def file_list
   @file_list ||= begin
     root_dir = ARGV[0]
-    Dir.glob(File.join(root_dir, "[ABC]*", "**", "01*.mp3"))
+    Dir.glob(File.join(root_dir, "**", "*.mp3"))
   end
 end
 
