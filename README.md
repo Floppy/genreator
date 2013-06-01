@@ -18,3 +18,7 @@ genreator.rb /path/to/music/files
 ```
 
 The script stores a list of genres per artist in `artists.yml`, to avoid repeated lookups. Just remove the file to start from scratch.
+
+## License
+
+Open source under the MIT license; see LICENSE.md for details.
