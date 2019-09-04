@@ -2,7 +2,7 @@ GEM
   remote: https://rubygems.org/
   specs:
     nokogiri (1.5.9)
-    taglib-ruby (0.6.0)
+    taglib-ruby (0.7.1)
 
 PLATFORMS
   ruby
